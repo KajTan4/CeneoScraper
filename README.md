@@ -1,4 +1,4 @@
-# CeneoScraperIS12
+# CeneoScraper
 
 ## Kod produktu, o którym będą pobierane opinie
 84514582
